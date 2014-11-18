@@ -3,8 +3,10 @@ ZBarSDK-for-iOS
 
 64bits ZbarSDK for iOS (armv7, amrv7s, arm64).
 
-
 Refers to http://stackoverflow.com/questions/18740304/linker-error-in-xcode-5/18937831#18937831
+
+
+The lib in this repo has already been rebuilt for 64bit devices, but in case you want to built it on your own, the explicit steps are listed below:
 
 
 Download Mercurial first
@@ -13,6 +15,7 @@ Clone the source:
 <pre><code>hg clone http://zbar.hg.sourceforge.net:8000/hgroot/zbar/zbar 
 cd zbar 
 hg checkout iPhoneSDK-1.3.1 
+
 open iphone/zbar.xcodeproj
 </code></pre>
 
