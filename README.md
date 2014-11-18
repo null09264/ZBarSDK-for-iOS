@@ -1,7 +1,7 @@
 ZBarSDK-for-iOS
 ===============
 
-64bits ZbarSDK for iOS (armv7, amrv7s, arm64)
+64bits ZbarSDK for iOS (armv7, amrv7s, arm64).
 
 
 Refers to http://stackoverflow.com/questions/18740304/linker-error-in-xcode-5/18937831#18937831
